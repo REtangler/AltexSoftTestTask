@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Net.Mime;
 
 namespace AltexSoftTestTask
 {
@@ -35,7 +34,6 @@ namespace AltexSoftTestTask
                 {
                     Console.WriteLine("\n\tOnly numbers are allowed!");
                 }
-                
 
                 Console.WriteLine("\nPress 'Q' to exit the program.. or press any key to try again.\n");
 
