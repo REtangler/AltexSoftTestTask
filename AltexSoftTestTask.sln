@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AltexSoftTestTask", "AltexSoftTestTask\AltexSoftTestTask.csproj", "{19083D9A-4209-473F-871A-4AC8BD720D5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19083D9A-4209-473F-871A-4AC8BD720D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19083D9A-4209-473F-871A-4AC8BD720D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19083D9A-4209-473F-871A-4AC8BD720D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19083D9A-4209-473F-871A-4AC8BD720D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9130282A-77DE-4F07-8A47-BC77E6140E50}
+	EndGlobalSection
+EndGlobal
